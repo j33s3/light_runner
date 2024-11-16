@@ -1,0 +1,19 @@
+### SECOND PART
+
+# Create presets
+
+# Create python interface for the application, ensure it can be ran on touch screen
+
+# deploy dummy version on desktop
+
+# must of color picker
+
+# must list presets
+
+# must allow for addition/removal of presets
+
+# must have on/off button
+
+# must dim after 1 minute inactive
+
+# will utilize an always one configuration
