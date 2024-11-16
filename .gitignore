@@ -168,6 +168,7 @@ cython_debug/
 
 # Python Virtual Environment
 venv_name/
+python_venv/
 new_venv/
 
 # Data Folder
