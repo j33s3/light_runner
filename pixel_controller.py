@@ -43,8 +43,10 @@ class PixelController:
 
         if power is True:
             settings = self.load_state()
+            print(settings)
             self.pixels.fill(settings.get("color"))
             self.pixels.brightness = settings.get("brightness")
+            self.current_color = settings.get("color")
             self.pixels.show()
         else:
             self.pixels.fill((0, 0, 0))
